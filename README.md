@@ -1,8 +1,17 @@
-- 👋 Hi, I’m Nonso Udechukwu, a detail-oriented Data Analyst with a keen interest in data-guided performance improvement. 
-- 👀 I’m proficient in using Microsoft Excel, Python (pandas, numpy, matplotlib, seaborn)
-- 🌱 I’m currently learning SQL and PowerBI.
-- 💞️ I’m looking to collaborate on projects that will leave the world with one less misconception.
+<h2>👋 Hi, I’m Nonso Udechukwu </h2> 
+- a detail-oriented Data Analyst with a keen interest in data-guided performance improvement. <br> 
+- 🌱 Currently learning PowerBI. <br>
+- 💞️ I’m looking to collaborate on projects or any Data roles (remote only) <br>
 - 📫 How to reach me https://www.linkedin.com/in/osita-udechukwu
+
+<h2> Skills: Tools and Framework 📊</h2>
+<uL>
+<li>Microsoft Excel </li>
+<li>SQL</li>
+<li>Data analysis with Python (pandas, numpy, scipy)</li>
+<li>Data visualisation (Matplotlib, Seaborn)</li>
+<li>Web scraping (scrapy, BeautifulSoup, requests)</li>
+</ul>
 
 <!---
 OsyTheDataGuy/OsyTheDataGuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
